@@ -4,16 +4,6 @@
 
 Welcome to the **Synergy Binaries Repository**! This repository contains the latest binaries for Synergy, a software that enables seamless mouse and keyboard sharing between multiple computers.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Supported Platforms](#supported-platforms)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - **Cross-Platform Compatibility:** Use Synergy on Windows, macOS, and Linux.
