@@ -1,6 +1,6 @@
 # Synergy Binaries Repository
 
-![Synergy Logo](https://link-to-your-logo-image.com/logo.png)
+![Synergy Logo](https://avatars.githubusercontent.com/u/181782356?s=48&v=4)
 
 Welcome to the **Synergy Binaries Repository**! This repository contains the latest binaries for Synergy, a software that enables seamless mouse and keyboard sharing between multiple computers.
 
